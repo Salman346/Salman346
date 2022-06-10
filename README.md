@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Salman
-- 👀 I’m interested in web development.
+- 🔹 I’m a front-end Web developer.
 - 🌱 I’m currently learning javascript.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for some developer friends.
 - 📫 You can contact me on discord BoyOnFire#1870.
 
 <!---
